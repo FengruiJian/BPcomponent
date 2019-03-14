@@ -1,0 +1,16 @@
+PODS:
+  - BPcomponent (0.1.0)
+
+DEPENDENCIES:
+  - BPcomponent (from `../`)
+
+EXTERNAL SOURCES:
+  BPcomponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BPcomponent: ca6d0fce7a5d3054baeb855ac48f39cd12b07312
+
+PODFILE CHECKSUM: e71719f718faa017d5650974c6b7b988f00138ce
+
+COCOAPODS: 1.5.3

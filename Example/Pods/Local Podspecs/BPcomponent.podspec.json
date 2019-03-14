@@ -1,0 +1,22 @@
+{
+  "name": "BPcomponent",
+  "version": "0.1.0",
+  "summary": "A short description of BPcomponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jfr0524@qq.com/BPcomponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jfr0524@qq.com": "jfr0524@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jfr0524@qq.com/BPcomponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BPcomponent/Classes/**/*"
+}
